@@ -242,14 +242,15 @@ body {
 .emailme {
 	text-align: center;
 	padding-top: 20px;
-
+	
 
 }
 
 .emailme h2 {
-	font-size: 1.5rem;
+	font-size: 1.4rem;
 	line-height: 1.4;
 	padding-bottom: 20px;
+	
 }
 
 #myCert {
@@ -265,7 +266,7 @@ body {
 #myCert:hover {
 	transform: scale(1.1);
 	transition: 1s;
-	text-decoration: underline;
+	
 	cursor: pointer;
 }
 
